@@ -5,9 +5,6 @@
   "description": "Easily fold `import` lines. Useful for .js(x) and .ts(x) files",
   "keywords": [
   ],
-  "activationCommands": {
-    "atom-workspace": "fold-imports:toggle"
-  },
   "repository": "https://github.com/elliotaplant/fold-imports",
   "license": "MIT",
   "engines": {
