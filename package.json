@@ -5,7 +5,7 @@
   "author": "elliotaplant@gmail.com",
   "description": "Fold and unfold lines that begin with `import` on file open and/or with a hotkey",
   "keywords": [],
-  "repository": "https://github.com/elliotaplant/fold-imports",
+  "repository": "https://github.com/elliotaplant/fold-imports.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
