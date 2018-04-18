@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle fold-imports",
+        "command": "fold-imports:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "fold-imports",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "fold-imports:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
