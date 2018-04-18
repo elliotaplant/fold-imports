@@ -1,14 +1,14 @@
 {
   "name": "fold-imports",
   "main": "./lib/fold-imports",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.0.1",
+  "description": "Easily fold `import` lines. Useful for .js(x) and .ts(x) files",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "fold-imports:toggle"
   },
-  "repository": "https://github.com/atom/fold-imports",
+  "repository": "https://github.com/elliotaplant/fold-imports",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
