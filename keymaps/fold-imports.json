@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "fold-imports:toggle"
+    "ctrl-alt-i": "fold-imports:toggle"
   }
 }
