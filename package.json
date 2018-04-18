@@ -1,8 +1,9 @@
 {
   "name": "fold-imports",
   "main": "./lib/fold-imports",
-  "version": "0.0.1",
-  "description": "Easily fold `import` lines. Useful for .js(x) and .ts(x) files",
+  "version": "0.0.0",
+  "author": "elliotaplant@gmail.com",
+  "description": "Fold and unfold lines that begin with `import` on file open and/or with a hotkey",
   "keywords": [
   ],
   "repository": "https://github.com/elliotaplant/fold-imports",
