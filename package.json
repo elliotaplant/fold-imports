@@ -1,16 +1,14 @@
 {
   "name": "fold-imports",
   "main": "./lib/fold-imports",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "elliotaplant@gmail.com",
   "description": "Fold and unfold lines that begin with `import` on file open and/or with a hotkey",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/elliotaplant/fold-imports",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
